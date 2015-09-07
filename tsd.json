@@ -1,0 +1,24 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": ".tmp/typings",
+  "bundle": ".tmp/typings/tsd.d.ts",
+  "installed": {
+    "lodash/lodash.d.ts": {
+      "commit": "bb051830df88f5a55dcf06b7fe85bf6b62cc97f2"
+    },
+    "threejs/three.d.ts": {
+      "commit": "bb051830df88f5a55dcf06b7fe85bf6b62cc97f2"
+    },
+    "webaudioapi/waa.d.ts": {
+      "commit": "bb051830df88f5a55dcf06b7fe85bf6b62cc97f2"
+    },
+    "webrtc/MediaStream.d.ts": {
+      "commit": "bb051830df88f5a55dcf06b7fe85bf6b62cc97f2"
+    },
+    "es6-promise/es6-promise.d.ts": {
+      "commit": "bb051830df88f5a55dcf06b7fe85bf6b62cc97f2"
+    }
+  }
+}
